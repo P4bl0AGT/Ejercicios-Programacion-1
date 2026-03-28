@@ -1,0 +1,6 @@
+Manual de Procedimientos
+1. Encender el sistema.
+2. Revisar sensores.
+3. Verificar conexion de red.
+4. Reportar fallas al supervisor.
+5. Apagar equipos al finalizar.
